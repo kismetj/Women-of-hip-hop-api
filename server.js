@@ -7,7 +7,7 @@ const PORT = 8001
 app.use(cors())
 
 const femaleMcs = {
-    'Foxy Brown': {
+    'foxy brown': {
         'stageName': 'Foxy Brown',
         'birthName': 'Inga DeCarlo Fung Marchand',
         'birthDate': 'September 6, 1978',
@@ -18,7 +18,7 @@ const femaleMcs = {
         'playlist':'https://open.spotify.com/playlist/37i9dQZF1DZ06evO0QoaW5',
         'Label': 'Def Jam Violator'
     },
-    'MC Lyte': {
+    'mc lyte': {
         'stageName': 'Mc Lyte',
         'birthName': 'Lana Michele Moorer',
         'birthDate': 'October 11, 1970',
@@ -29,7 +29,7 @@ const femaleMcs = {
         'playlist':'<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DZ06evO1IXfUJ?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>',
         'Label': 'First Priority Music/Atlantic Records'
     },
-    'Sampa The Great': {
+    'sampa the great': {
         'stageName': 'Sampa The Great',
         'birthName': 'Sampa Tembo',
         'birthDate': 'August 9, 1993',
@@ -40,7 +40,7 @@ const femaleMcs = {
         'playlist':'<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3Dr4kUiswmZ1A2MYggyE2i?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>',
         'Label': 'Wondercore Island / Big Dada/ NinjaTune'
     },
-    'Little Simz': {
+    'little simz': {
         'stageName': 'Little Simz',
         'birthName': ' Simbiatu "Simbi" Abisola Abiola Ajikawo',
         'birthDate': '23 February 1994',
@@ -51,7 +51,7 @@ const femaleMcs = {
         'playlist':'<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DZ06evO3GmPLr?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>',
         'Label': 'Age 101 Music - AWAL'
     },
-    'Queen Latifah': {
+    'queen latifah': {
         'stageName': 'Queen Latifah',
         'birthName': 'Dana Elaine Owens',
         'birthDate': 'March 18, 1970',
